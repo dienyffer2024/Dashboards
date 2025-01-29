@@ -7,3 +7,4 @@
 * Painéis de Vendas 2, no Tableau: https://public.tableau.com/app/profile/dienyffer.ramos/viz/PaineldeVendas2_17314225473750/Painel1
 * Cadastro Nacional de Obras (CNO), no Looker: https://lookerstudio.google.com/reporting/86045830-42ba-4290-9daf-4693f01d3f28
 * Análise Financeira, no Looker: https://lookerstudio.google.com/u/1/reporting/561aa61d-a585-4449-9757-ef45dec46ce7/page/PMBWE
+* Análise de Ações, no Power BI: acessar diretamente pelo arquivo publicado.
