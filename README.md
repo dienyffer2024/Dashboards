@@ -9,4 +9,4 @@
 * Análise Financeira, no Looker: https://lookerstudio.google.com/u/1/reporting/561aa61d-a585-4449-9757-ef45dec46ce7/page/PMBWE
 * Análise de Ações, no Power BI: acessar diretamente pelo arquivo publicado.
 * Projeto Vendas, no Power BI: https://app.powerbi.com/groups/me/reports/e90b80c6-95ce-416d-b5de-88e845fc9c9e?ctid=a02670ef-ed76-4580-9c6d-c893b3402c11&pbi_source=linkShare
-* Projeto Orçamento, no Power BI: https://app.powerbi.com/groups/me/reports/811e29ed-3752-4808-a4c3-782cd2b96305?ctid=a02670ef-ed76-4580-9c6d-c893b3402c11&pbi_source=linkShare
+* Projeto Orçamento, no Power BI: https://app.powerbi.com/groups/me/reports/c8379d66-3c3e-45c8-8b69-e8121899a482?ctid=a02670ef-ed76-4580-9c6d-c893b3402c11&pbi_source=linkShare
